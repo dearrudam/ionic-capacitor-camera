@@ -1,0 +1,7 @@
+{
+  "appId": "io.ionic.starter",
+  "appName": "ionic-capacitor-camera",
+  "bundledWebRuntime": false,
+  "npmClient": "npm",
+  "webDir": "www"
+}
